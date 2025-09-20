@@ -16,24 +16,6 @@ LegalAnalyzer is a web platform that combines **artificial intelligence** with l
 
 ---
 
-## 📷 Screenshots
-
-> *(Put these images inside a `screenshots/` folder in your repo for the paths to work.)*
-
-![Home](screenshots/home.png)  
-*Home / Landing Page*
-
-![About](screenshots/about.png)  
-*About LegalAnalyzer — Mission, Metrics, What Sets Us Apart*
-
-![How It Works](screenshots/how_it_works.png)  
-*Workflow: Upload → AI Analyze → Risk Assessment → Detailed Report*
-
-![Key Features](screenshots/key_features.png)  
-*Core Features: Clause Detection, Risk Scoring, Compliance, Comparison*
-
----
-
 ## 🛠 Tech Stack & Project Structure
 
 | Aspect | Details |
